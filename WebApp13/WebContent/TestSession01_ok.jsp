@@ -14,7 +14,7 @@
 	String memberId = "superman";
 	String memberPwd = "1234567";
 	String memberName = "문정환";
-	
+	//sdfssddfs
 	if(userId.equals(memberId) && userPwd.equals(memberPwd))
 	{
 		// 로그인 액션 처리  / String, Object 형태로 적재됨
